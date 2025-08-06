@@ -1,6 +1,6 @@
 # Link Shortener
 
-Solventum Code Challenge.
+Code Challenge.
 
 ## Requirements
 - Java 17+
